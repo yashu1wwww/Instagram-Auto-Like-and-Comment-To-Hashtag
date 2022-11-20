@@ -281,6 +281,6 @@ sleep(1)
 driver.find_element(By.XPATH,'//*[@class ="_aidk"]//button[@type="submit"]').click()
 sleep(3)
 driver.close()
-
+#here i added upto 25 posts auto likes & comments to the hastag if you want another 25 posts auto likes & comments means then copy line from 35 to 282 and paste in 283 line(open notepad ++ for no line)
 
 
