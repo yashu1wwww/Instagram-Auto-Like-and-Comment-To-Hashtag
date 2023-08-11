@@ -1,7 +1,7 @@
 # Instagram-Auto-Like-and-Comment-To-Hastag
-Instagram Auto Like and Comment To Hastag using selenium with python
+Instagram Auto Like and Comment To Hashtag using selenium with python
 
-👉Instagram Auto Like & Comments For A Particular Hastag
+👉Instagram Auto Like & Comments For A Particular Hashtag
 
 https://youtu.be/-oPVJoCRNI4
 
