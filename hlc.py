@@ -63,8 +63,7 @@ while True:
         next_button = driver.find_element(By.XPATH, '/html/body/div[2]/div/div/div[3]/div/div/div[1]/div/div[3]/div/div/div/div/div[1]/div/div/div[2]/button')
         next_button.click()
 
-        # Add a sleep to control the loop speed
-        sleep(3)  # Adjust the sleep time as needed
+        sleep(3)  
 
     except Exception as e:
         print("An error occurred:", e)
