@@ -16,8 +16,8 @@ commentsDict = ['good','amazing one','keep going','excellent','next video please
 driver = webdriver.Chrome()
 driver.get("https://www.instagram.com")
 sleep(3)
-driver.find_element_by_name('username').send_keys('yashu_infi') #replace with your insta username
-driver.find_element_by_name('password').send_keys('Name11@#$%') #replace with your insta password
+driver.find_element_by_name('username').send_keys('yashu_ini') #replace with your insta username
+driver.find_element_by_name('password').send_keys('pas32%') #replace with your insta password
 sleep(1)
 driver.find_element_by_xpath("//button[@type='submit']").click()
 sleep(6)
