@@ -7,7 +7,7 @@ https://youtu.be/-oPVJoCRNI4
 
 ## replace 11th line with hashtag and 19th and 20th line with username and password..
 
-Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. Open the command prompt in that particular folder and enter lc.py or double-click on the rl.py file.
+Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. Open the command prompt in that particular folder and enter lc.py or double-click on the hlc.py file.
 
 👉Note:-
 
