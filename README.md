@@ -5,11 +5,9 @@ Instagram Auto Like and Comment To Hashtag using selenium with python
 
 https://youtu.be/-oPVJoCRNI4
 
-Change line 16 and 17 with your username and password respectively. In line 21, replace the "amazing" line with your required hashtag.
+## replace 11th line with hashtag and 19th and 20th line with username and password..
 
-I have added functionality for auto-liking and commenting on up to 25 posts with the specified hashtag. If you want to auto-like and comment on another 25 posts, copy lines 35 to 282 and paste them in line 283. You can use Notepad++ to do this.
-
-To get started, download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Then, place it in the specified folder. Open cmd in that folder and enter "hlc.py" or double-click on "hlc.py". Alternatively, you can rename the file and run it.
+Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. Open the command prompt in that particular folder and enter lc.py or double-click on the rl.py file.
 
 👉Note:-
 
