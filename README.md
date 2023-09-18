@@ -1,9 +1,13 @@
 # Instagram-Auto-Like-and-Comment-To-Hastag
 Instagram Auto Like and Comment To Hashtag using selenium with python
 
-👉Instagram Auto Like & Comments For A Particular Hashtag
+## 👉Instagram Auto Likes & Comments for a Particular Hashtag until you stop
 
 https://youtu.be/-oPVJoCRNI4
+
+## For Instagram Automatic Account Create
+
+https://github.com/yashu1wwww/instagram-auto-create-account
 
 ## replace 11th line with hashtag and 19th and 20th line with username and password..
 
