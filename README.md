@@ -3,7 +3,7 @@ Instagram Auto Like and Comment To Hashtag using selenium with python
 
 ## Replace 11th line with hashtag and 19th and 21st line with username and password..
 
-# if you want with multiple Accs Then Copy From 16 line to End And Paste Again And Change Username & Pass.
+# if you want with multiple Accs Then Copy From 16 line to End Line And Paste Again And Don't Forgot To Change Username & Pass And Required Hashtag...
 
 Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. 
 Open the command prompt in that particular folder and enter lc.py or double-click on the hlc.py file.
